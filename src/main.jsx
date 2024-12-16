@@ -14,32 +14,32 @@ import Blogs from './Pages/Blogs'
 ///yha par is function mai sare routes ha jo ek array of object mai save h...
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/GDG_MMMUTdeployed/',
     element: <Home />
   },
   {
-    path: '/team',
+    path: '/GDG_MMMUTdeployed/team',
     element: <Team />
   },
   {
-    path: '/signup',
+    path: '/GDG_MMMUTdeployed/signup',
     element: <Signup/>
   },
   {
-path:'/events',
+path:'/GDG_MMMUTdeployed/events',
 element:<Events/>
   },
   {
-    path:'/blogs',
+    path:'/GDG_MMMUTdeployed/blogs',
     element:<Blogs />
   },
   {
-    path:'/contact',
+    path:'/GDG_MMMUTdeployed/contact',
     element:<Contact/>,
   },
 
   {
-    path:'/registration',
+    path:'/GDG_MMMUTdeployed/registration',
     element:<Registration/>
   }
   // {
