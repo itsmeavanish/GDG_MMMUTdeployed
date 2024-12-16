@@ -1,0 +1,43 @@
+[
+    {
+      "name": "John Doe",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "description": "John is a talented developer with expertise in frontend technologies and a passion for clean code."
+    },
+    {
+      "name": "Jane Smith",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "description": "Jane is a UX/UI designer focused on delivering beautiful and user-friendly digital experiences."
+    },
+    {
+      "name": "Paul Starr",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "description": "Paul is a backend engineer with years of experience building scalable, secure systems."
+    },
+    {
+      "name": "Sara Lee",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg",
+      "description": "Sara is a product manager who thrives on bringing together cross-functional teams to launch innovative products."
+    },
+    {
+      "name": "Mark Brown",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "description": "Mark is a cloud architect who specializes in designing and managing infrastructure solutions on AWS."
+    },
+    {
+      "name": "Emily Davis",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "description": "Emily is a data scientist with a knack for solving complex problems through data analysis and machine learning."
+    },
+    {
+      "name": "Lucas White",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg",
+      "description": "Lucas is a mobile app developer, creating high-performance apps for both Android and iOS."
+    },
+    {
+      "name": "Olivia Green",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg",
+      "description": "Olivia is a digital marketer focused on SEO strategies, social media marketing, and brand growth."
+    }
+  ]
+  
