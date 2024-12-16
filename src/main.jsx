@@ -14,7 +14,7 @@ import Blogs from './Pages/Blogs'
 ///yha par is function mai sare routes ha jo ek array of object mai save h...
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: 'https://itsmeavanish.github.io/GDG_MMMUTdeployed/',
     element: <Home />
   },
   {
